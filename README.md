@@ -6,10 +6,10 @@ This project was make in RPG Maker 2003, this project is a funny <i>parody</i> o
 <img src="https://file.garden/aKpDXLLZKBsHiz-_/Sprite-0001.png" alt="Enbolab logo">
 
 Credits
-Composers: BROKIE<3 and DaCoolAlien
+Composers: Brokie<3 and DaCoolAlien
 
 
-Landscape and Sprites:DaCoolAlien
+Landscape and Sprites: DaCoolAlien
 
 
-Story and lore:Brokie<3
+Story and lore: Brokie<3
