@@ -5,5 +5,9 @@ DISCLAIMER EnboLab is indev so expect alot of dead ends in the story or it looki
 
 Credits
 Composers: BROKIE<3 and DaCoolAlien
+
+
 Landscape and Sprites:DaCoolAlien
+
+
 Story and lore:Brokie<3
